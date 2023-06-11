@@ -1,0 +1,39 @@
+/* Write your code here. */
+.super-over-league {
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.team-container {
+  display: flex;
+  justify-content: center;
+}
+
+.team-card {
+  background-color: #f8fafc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 0 10px;
+  width: 200px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.12);
+}
+
+.team-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.team-name {
+  font-size: 16px;
+  font-weight: bold;
+}
